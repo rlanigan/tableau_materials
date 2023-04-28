@@ -1,0 +1,131 @@
+file_path
+/Users/rlanigan/Documents/GitHub/tableau_materials/migrate_compress.py
+/Users/rlanigan/Documents/GitHub/tableau_materials/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/files_list.csv
+/Users/rlanigan/Documents/GitHub/tableau_materials/.gitattributes
+/Users/rlanigan/Documents/GitHub/tableau_materials/all_items.py
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/569/Actual vs Budget vs LY.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/569/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/569/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/534/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/534/Customer.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/534/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/534/Customers.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/559/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/559/Balance Sheet.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/559/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/559/Income Statement.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/651/Account Dynamics.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/651/Business Line.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/651/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/651/Accounts.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/651/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/651/Top Contributors.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/694/P-Shortages.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/581/Scrap Breakdown.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/581/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/581/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/581/Top Scrap Reasons.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/542/KPIs Breakdown.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/542/Ending Contracts.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/542/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/542/Trend.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/542/Suppliers.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/542/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/542/Contracts.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/542/Buyers.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/582/Projects.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/582/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/582/Project.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/582/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/576/Availability.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/576/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/576/Excess Stock.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/576/Stock Coverage.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/576/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/576/Historical Status.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/578/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/578/1. Ready for Pickup.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/578/2. In Transit.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/578/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/578/3. Completed.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/578/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/540/Purchase Categories.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/540/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/540/Savings.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/540/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/570/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/570/Sales vs Quota vs LY.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/570/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/577/Adhoc.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/577/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/577/Product Base.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/577/Product.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/577/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images/577/Stock Coverage.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/569/Actual vs Budget vs LY.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/569/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/569/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/534/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/534/Customer.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/534/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/534/Customers.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/559/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/559/Balance Sheet.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/559/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/559/Income Statement.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/651/Account Dynamics.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/651/Business Line.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/651/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/651/Accounts.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/651/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/651/Top Contributors.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/694/P-Shortages.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/581/Scrap Breakdown.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/581/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/581/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/581/Top Scrap Reasons.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/542/KPIs Breakdown.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/542/Ending Contracts.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/542/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/542/Trend.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/542/Suppliers.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/542/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/542/Contracts.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/542/Buyers.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/582/Projects.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/582/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/582/Project.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/582/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/576/Availability.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/576/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/576/Excess Stock.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/576/Stock Coverage.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/576/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/576/Historical Status.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/578/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/578/1. Ready for Pickup.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/578/2. In Transit.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/578/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/578/3. Completed.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/578/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/540/Purchase Categories.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/540/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/540/Savings.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/540/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/570/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/570/Sales vs Quota vs LY.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/570/Executive Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/577/Adhoc.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/577/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/577/Product Base.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/577/Product.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/577/Home.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_test/577/Stock Coverage.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_role/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_role/578/.DS_Store
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_role/578/Executive_Summary.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_role/578/Executive_Summary_Test.png
+/Users/rlanigan/Documents/GitHub/tableau_materials/accelerators_images_role/577/Stock_Coverage.png
