@@ -20,6 +20,11 @@ def process_files_in_directory(input_directory, output_directory):
             os.makedirs(output_subfolder, exist_ok=True)
             output_file_path = os.path.join(output_subfolder, file)
 
+            # Replace spaces with underscores in PNG file names
+            if file.lower().endswith('.png'):
+                file = file.replace(" ", "_")
+            output_file_path = os.path.join(output_subfolder, file)
+
             if file.lower().endswith('.png'):
                 compress_png(input_file_path, output_file_path)
                 print(f"Compressed: {input_file_path} -> {output_file_path}")

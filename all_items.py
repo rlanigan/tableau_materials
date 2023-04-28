@@ -12,8 +12,8 @@ def list_files_in_directory(directory):
             file_list.append(os.path.join(root, file))
     return file_list
 
-# Get the current working directory
-directory_path = os.getcwd()
+# Specify the directory to index
+directory_path = './accelerators_images_test'
 files = list_files_in_directory(directory_path)
 
 # Create a pandas DataFrame
