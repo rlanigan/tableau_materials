@@ -13,7 +13,7 @@ def list_files_in_directory(directory):
     return file_list
 
 # Specify the directory to index
-directory_path = './accelerators_images_test'
+directory_path = './compressed_images'
 files = list_files_in_directory(directory_path)
 
 # Create a pandas DataFrame

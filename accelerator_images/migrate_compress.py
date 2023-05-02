@@ -33,7 +33,7 @@ def process_files_in_directory(input_directory, output_directory):
                 print(f"Copied: {input_file_path} -> {output_file_path}")
 
 
-input_directory = "./accelerators_images"
-output_directory = "./accelerators_images_test"
+input_directory = "./original_images"
+output_directory = "./compressed_images"
 
 process_files_in_directory(input_directory, output_directory)
