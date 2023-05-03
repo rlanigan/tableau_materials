@@ -17,11 +17,16 @@ file_path
 ./compressed_images/651/Home.png
 ./compressed_images/651/Top_Contributors.png
 ./compressed_images/651/Accounts.png
+./compressed_images/803/Energy_Consumption.png
+./compressed_images/803/Travel_Emissions.png
+./compressed_images/803/Intro.png
+./compressed_images/803/Emissions.png
 ./compressed_images/694/P-Availability.png
 ./compressed_images/694/Product.png
 ./compressed_images/694/Home.png
 ./compressed_images/694/Customer.png
 ./compressed_images/694/P-Shortages.png
+./compressed_images/692/Productive_Maintenance.png
 ./compressed_images/581/Executive_Summary.png
 ./compressed_images/581/Home.png
 ./compressed_images/581/Top_Scrap_Reasons.png
@@ -34,6 +39,7 @@ file_path
 ./compressed_images/542/Suppliers.png
 ./compressed_images/542/Contracts.png
 ./compressed_images/542/Buyers.png
+./compressed_images/653/Manufacturing_Daily_Analysis.png
 ./compressed_images/582/Projects.png
 ./compressed_images/582/Executive_Summary.png
 ./compressed_images/582/Home.png
@@ -44,6 +50,10 @@ file_path
 ./compressed_images/576/Excess_Stock.png
 ./compressed_images/576/Stock_Coverage.png
 ./compressed_images/576/Historical_Status.png
+./compressed_images/585/Adhoc.png
+./compressed_images/585/Executive_Summary.png
+./compressed_images/585/Home.png
+./compressed_images/585/KPI_Performance.png
 ./compressed_images/578/.DS_Store
 ./compressed_images/578/Executive_Summary.png
 ./compressed_images/578/2._In_Transit.png
