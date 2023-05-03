@@ -1,61 +1,65 @@
 file_path
-./accelerators_images_test/.DS_Store
-./accelerators_images_test/569/Actual vs Budget vs LY.png
-./accelerators_images_test/569/Home.png
-./accelerators_images_test/569/Executive Summary.png
-./accelerators_images_test/534/Home.png
-./accelerators_images_test/534/Customer.png
-./accelerators_images_test/534/Executive Summary.png
-./accelerators_images_test/534/Customers.png
-./accelerators_images_test/559/Home.png
-./accelerators_images_test/559/Balance Sheet.png
-./accelerators_images_test/559/Executive Summary.png
-./accelerators_images_test/559/Income Statement.png
-./accelerators_images_test/651/Account Dynamics.png
-./accelerators_images_test/651/Business Line.png
-./accelerators_images_test/651/Home.png
-./accelerators_images_test/651/Accounts.png
-./accelerators_images_test/651/Executive Summary.png
-./accelerators_images_test/651/Top Contributors.png
-./accelerators_images_test/694/P-Shortages.png
-./accelerators_images_test/581/Scrap Breakdown.png
-./accelerators_images_test/581/Home.png
-./accelerators_images_test/581/Executive Summary.png
-./accelerators_images_test/581/Top Scrap Reasons.png
-./accelerators_images_test/542/KPIs Breakdown.png
-./accelerators_images_test/542/Ending Contracts.png
-./accelerators_images_test/542/Home.png
-./accelerators_images_test/542/Trend.png
-./accelerators_images_test/542/Suppliers.png
-./accelerators_images_test/542/Executive Summary.png
-./accelerators_images_test/542/Contracts.png
-./accelerators_images_test/542/Buyers.png
-./accelerators_images_test/582/Projects.png
-./accelerators_images_test/582/Home.png
-./accelerators_images_test/582/Project.png
-./accelerators_images_test/582/Executive Summary.png
-./accelerators_images_test/576/Availability.png
-./accelerators_images_test/576/Home.png
-./accelerators_images_test/576/Excess Stock.png
-./accelerators_images_test/576/Stock Coverage.png
-./accelerators_images_test/576/Executive Summary.png
-./accelerators_images_test/576/Historical Status.png
-./accelerators_images_test/578/.DS_Store
-./accelerators_images_test/578/1. Ready for Pickup.png
-./accelerators_images_test/578/2. In Transit.png
-./accelerators_images_test/578/Home.png
-./accelerators_images_test/578/3. Completed.png
-./accelerators_images_test/578/Executive Summary.png
-./accelerators_images_test/540/Purchase Categories.png
-./accelerators_images_test/540/Home.png
-./accelerators_images_test/540/Savings.png
-./accelerators_images_test/540/Executive Summary.png
-./accelerators_images_test/570/Home.png
-./accelerators_images_test/570/Sales vs Quota vs LY.png
-./accelerators_images_test/570/Executive Summary.png
-./accelerators_images_test/577/Adhoc.png
-./accelerators_images_test/577/.DS_Store
-./accelerators_images_test/577/Product Base.png
-./accelerators_images_test/577/Product.png
-./accelerators_images_test/577/Home.png
-./accelerators_images_test/577/Stock Coverage.png
+./compressed_images/.DS_Store
+./compressed_images/569/Executive_Summary.png
+./compressed_images/569/Actual_vs_Budget_vs_LY.png
+./compressed_images/569/Home.png
+./compressed_images/534/Executive_Summary.png
+./compressed_images/534/Home.png
+./compressed_images/534/Customer.png
+./compressed_images/534/Customers.png
+./compressed_images/559/Executive_Summary.png
+./compressed_images/559/Home.png
+./compressed_images/559/Income_Statement.png
+./compressed_images/559/Balance_Sheet.png
+./compressed_images/651/Business_Line.png
+./compressed_images/651/Executive_Summary.png
+./compressed_images/651/Account_Dynamics.png
+./compressed_images/651/Home.png
+./compressed_images/651/Top_Contributors.png
+./compressed_images/651/Accounts.png
+./compressed_images/694/P-Availability.png
+./compressed_images/694/Product.png
+./compressed_images/694/Home.png
+./compressed_images/694/Customer.png
+./compressed_images/694/P-Shortages.png
+./compressed_images/581/Executive_Summary.png
+./compressed_images/581/Home.png
+./compressed_images/581/Top_Scrap_Reasons.png
+./compressed_images/581/Scrap_Breakdown.png
+./compressed_images/542/Ending_Contracts.png
+./compressed_images/542/Executive_Summary.png
+./compressed_images/542/KPIs_Breakdown.png
+./compressed_images/542/Home.png
+./compressed_images/542/Trend.png
+./compressed_images/542/Suppliers.png
+./compressed_images/542/Contracts.png
+./compressed_images/542/Buyers.png
+./compressed_images/582/Projects.png
+./compressed_images/582/Executive_Summary.png
+./compressed_images/582/Home.png
+./compressed_images/582/Project.png
+./compressed_images/576/Executive_Summary.png
+./compressed_images/576/Availability.png
+./compressed_images/576/Home.png
+./compressed_images/576/Excess_Stock.png
+./compressed_images/576/Stock_Coverage.png
+./compressed_images/576/Historical_Status.png
+./compressed_images/578/.DS_Store
+./compressed_images/578/Executive_Summary.png
+./compressed_images/578/2._In_Transit.png
+./compressed_images/578/Home.png
+./compressed_images/578/3._Completed.png
+./compressed_images/578/1._Ready_for_Pickup.png
+./compressed_images/540/Executive_Summary.png
+./compressed_images/540/Home.png
+./compressed_images/540/Savings.png
+./compressed_images/540/Purchase_Categories.png
+./compressed_images/570/Executive_Summary.png
+./compressed_images/570/Home.png
+./compressed_images/570/Sales_vs_Quota_vs_LY.png
+./compressed_images/577/Adhoc.png
+./compressed_images/577/.DS_Store
+./compressed_images/577/Product.png
+./compressed_images/577/Home.png
+./compressed_images/577/Product_Base.png
+./compressed_images/577/Stock_Coverage.png
